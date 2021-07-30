@@ -7,7 +7,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Compile Include="Program.fs"/>
+        <Compile Include="DatalogAST.fs" />
+        <Compile Include="LinearAlgebraAST.fs" />
+        <Compile Include="Program.fs" />
     </ItemGroup>
 
 </Project>
